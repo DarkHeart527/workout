@@ -20,8 +20,8 @@
     var settings = {
      live: true,
     }
-    if (live == true) {
-     setInterval( function() { var theSrc = document.getElementById('live').src; document.getElementById('live').src = ''; console.info('refreshed Live'); document.getElementById('live').src = theSrc }, 500); 
+    if (settings.live == true) {
+     setInterval( function() { var theSrc = document.getElementById('live').src; document.getElementById('live').src = ''; document.getElementById('live').src = theSrc }, 500); 
     }
   </script>
 </html>
