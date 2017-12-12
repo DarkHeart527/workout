@@ -16,3 +16,4 @@
    set 1 10 pounds 10 reps
    set 2 15 pounds 10 reps
    set 3 20 pounds 10 reps
+End of Workout 11 - 11 - 17
