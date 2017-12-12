@@ -21,7 +21,7 @@
      live: true,
     }
     if (live == true) {
-     setInterval( function() { document.getElementById('live').src = this.src }, 500); 
+     setInterval( function() { var theSrc = document.getElementById('live').src; document.getElementById('live').src = ''; document.getElementById('live').src = theSrc }, 500); 
     }
   </script>
 </html>
