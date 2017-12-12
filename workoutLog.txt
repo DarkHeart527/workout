@@ -15,4 +15,4 @@
   Tricep Curls Dumbbells
    set 1 10 pounds 10 reps
    set 2 15 pounds 10 reps
-   set 3 20 pounds 0 reps
+   set 3 20 pounds 10 reps
