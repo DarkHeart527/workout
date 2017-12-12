@@ -1,0 +1,18 @@
+11 - 11 - 17
+  Barbell Preacher Curls
+   set 1 20 pounds 30 reps
+   set 2 40 pounds 20 reps
+   set 3 50 pounds 20 reps
+   set 4 60 pounds 10 reps
+   set 5 20 pounds 30 reps
+  Dumbbell Preacher Curls
+   set 1 20 pounds 20 reps
+   set 2 30 pounds 10 reps
+  Dumbbell Curls
+   set 1 15 pounds 10 reps
+   set 2 20 pounds 5 reps
+   set 3 10 pounds 20 reps
+  Tricep Curls Dumbbells
+   set 1 10 pounds 10 reps
+   set 2 15 pounds 10 reps
+   set 3 20 pounds 0 reps
