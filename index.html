@@ -28,9 +28,10 @@
       var theSrc = document.getElementById('live').src;
       document.getElementById('liveUnder').src = '';
       document.getElementById('liveUnder').src = theSrc;
-      
+      setTimeout ( function() {
       document.getElementById('live').src = '';
       document.getElementById('live').src = theSrc;
+      }, 100);
      }, 500); 
     }
   </script>
