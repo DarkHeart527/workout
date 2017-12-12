@@ -14,6 +14,14 @@
     </style>
   </head>
   <body>
-    <iframe class="iPage" src="workoutLog.txt"></iframe>
+    <iframe class="iPage" id="live" src="workoutLog.txt"></iframe>
   </body>
+  <script>
+    var settings = {
+     live: true; 
+    }
+    if (live == true) {
+     setInterval( function() { document.getElementById('live').src = this.src }, 500); 
+    }
+  </script>
 </html>
